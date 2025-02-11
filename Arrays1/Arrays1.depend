@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712175258 source:c:\users\admin\desktop\c program\arrays1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
