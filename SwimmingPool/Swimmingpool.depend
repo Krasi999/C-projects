@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711481863 source:c:\users\admin\desktop\c program\swimmingpool\main.c
+	<stdio.h>
+	<stdlib.h>
+
